@@ -1,0 +1,11 @@
+.bg-header { background-color: #354b60; }
+
+.store{
+    display: flex;
+    justify-content: flex-end!important;
+    width: 10rem;
+}
+
+.pt50{
+    padding-top: 50px !important;
+}
